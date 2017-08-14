@@ -11,3 +11,6 @@
 .dud {
   color: #757575;
 }
+
+html { font-size: 62.5%; }
+body { font-size: 1.5em !important;}
